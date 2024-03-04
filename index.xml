@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Albert&#39;s Apples</title>
+    <link>/</link>
+    <description>Recent content on Albert&#39;s Apples</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 18:05:57 +0100</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to libdiary 📖🔐</title>
+      <link>/posts/libdiary_one/</link>
+      <pubDate>Mon, 04 Mar 2024 18:05:57 +0100</pubDate>
+      <guid>/posts/libdiary_one/</guid>
+      <description>After a few weeks of coding, I&amp;rsquo;m finally completed the initial release of a very special (not really) project that I would like to share with the world.
+Today, I am proud to introduce libdiary - a C library designed for managing portable encrypted diaries.
+Throwback Pursuing a master&amp;rsquo;s degree in computer science comes with certain implications, one of them being the diploma project. Fortunately, being a venture-minded individual (or at least thinking this way), I decided to try to make something special of it.</description>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>/posts/initial/</link>
+      <pubDate>Thu, 15 Feb 2024 12:36:46 +0100</pubDate>
+      <guid>/posts/initial/</guid>
+      <description>So, I finally decided to create my own blog. The reason? Idk. But hopefully, I&amp;rsquo;ll make use of it soon&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
